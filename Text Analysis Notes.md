@@ -5,13 +5,13 @@ About what not to read.
 About casting a wider net, using text-mining to:
  1. identify word boundaries, sentence boundaries, standard spellings, parts of speech and lemmata.
  2. find patterns in a single work, in a subset of the MONK collection, or across everything we have.
- *** Example:
- **1. With Gertrude Stein's novel it:  applied “a frequent pattern analysis algorithm” that looked at every sequence of 
+ ... Example:
+ 1. With Gertrude Stein's novel it:  applied “a frequent pattern analysis algorithm” that looked at every sequence of 
  three words in the book, and any patterns across those trigrams, but “executing the algorithm on 
  *Making* generated thousands of patterns since each slight variation in a repetition generated a new pattern."
- **2. Appearance of the devil: we can see WHEN figures appear in texts and what these patterns mean.
+ 2. Appearance of the devil: we can see WHEN figures appear in texts and what these patterns mean.
  
- ### Best Practices when Data Mining:
+### Best Practices when Data Mining:
 1. Make assumptions explicit
 2. Use multiple representations and methodologies
 3. Report all trials (including failures)
@@ -28,4 +28,4 @@ form of proof or determinate answer. In this case, the validity of the evidence 
 be problematic when the methods are treated as a black box, a critic ex machina.
 - Have to be careful about manipulating data: can use it to prove different things. 
 
-# Reading: *Text Analysis, Data Mining and Visualizations* 
+## Reading: *Text Analysis, Data Mining and Visualizations* 
