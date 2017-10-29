@@ -11,14 +11,14 @@ About casting a wider net, using text-mining to:
  *Making* generated thousands of patterns since each slight variation in a repetition generated a new pattern."
  **2. Appearance of the devil: we can see WHEN figures appear in texts and what these patterns mean.
  
- ###Best Practices when Data Mining:
+ ### Best Practices when Data Mining:
 1. Make assumptions explicit
 2. Use multiple representations and methodologies
 3. Report all trials (including failures)
 4. Make data available and methods reproducible
 5. Engage in peer review of methodology
 
-###General Thoughts:
+### General Thoughts:
 - About what is absent. How texts differ from each other as much as how they are similar. 
 - Skepticism: Specifically, they point out that there are some key practices and assumptions in data-mining and machine 
 learning that literary users of these tools may not fully appreciate or understand, and that without an understanding 
@@ -28,4 +28,4 @@ form of proof or determinate answer. In this case, the validity of the evidence 
 be problematic when the methods are treated as a black box, a critic ex machina.
 - Have to be careful about manipulating data: can use it to prove different things. 
 
-#Reading: *Text Analysis, Data Mining and Visualizations* 
+# Reading: *Text Analysis, Data Mining and Visualizations* 
