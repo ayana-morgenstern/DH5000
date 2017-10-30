@@ -78,3 +78,13 @@ Use it to learn how computer-assissted analysis works. Use it to study texts. Ad
 
 - Text analysis programming is a useful tool that allows reserachers to look at data from a large body of text that may not necessarily be apparent to the human reader.
 - Traditional modes of research are not outdated and the human element is very much present in research. 
+
+# Text Analysis and DH
+Counting text/numbers in increasingly complex and convoluted ways. A large-scale. 
+- Mining the dispatch: A project that examines print-run of the Richmond Daily Dispatch (civil war era). Turned the image of the newspaper into text, corrected it, and then looked at problems of indexing: topic modelling. 
+- Topic modelling: feed a boatload of text on one side, and then the topics in your data are pulled. Changing percentages of a topic at a particular time. Find interesting patterns and use historical sensibilities to interpret.
+- Mallet: feed data in the command line. The analysis has to drive the tech: use the tool you need. Be wary of the tools you use. Topic modelling is cool, it got overused and fell out of fashion.
+
+- Topic modelling's Achilles' Heel : how many "buckets" are you looking for? Is there actually an answer. It's more about deciding yourself how many topics there are? do you trust the computer? How do you figure out/optimize the division of words/buckets. 
+
+
