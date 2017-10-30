@@ -57,3 +57,17 @@ Reading for content versus reading for data type things.
 
 ## Text Analysis Activity - Part 2
 How we can get a lot from a "text" just from a list of keywords: we can try and figure out content and context, but other than associations, we need the context. 
+
+## Tools
+
+- Hypothesis Annotations visualized. 
+1. Word clouds. Shows words that are most commonly used. Using visualization. Doesn't tell us HOW often or in what CONTEXT they are used.
+2. Sentiment analysis: Are they very negative or positive?  Sentiment scores. 
+CONTEXT IS KEY!!!!!!!! Sentiment analysis can miss out on context IE: Interesting can be a positive or negative word? 
+- AntConc: A freeware corpus analysis toolkit for concordancing and text analysis (Tutorial on programming historian for this). 
+What does it do? It creates a corpus, finds collocates, finds clusters, counts word and phrase frequency.
+
+*Every tool has a degree of bias/limitations* 
+Pick what works best for you and what you are studying/trying to get. *Shiny Hammer problem: You apply this tool to everything because it is awesome*. 
+
+- corpus.byu.edu
