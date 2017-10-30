@@ -73,7 +73,7 @@ Different ways of calculating "centrality":
 
 From a table of membership in different groups we have gotten a picture of a kind of social network between individuals, a sense of the degree of connection between organizations, and some strong hints of who the key players are in this world. And all this—all of it!—from the merest sliver of metadata about a single modality of relationship between people. 
 
-# General Thoughts:
+### General Thoughts:
 
 Data can be dangerous: we make assumptions, can be lead down the wrong paths, and yet can also find out an incredible amount concerning *relationships* between parcels of data/people. 
 
