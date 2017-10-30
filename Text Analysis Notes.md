@@ -79,4 +79,25 @@ Data can be dangerous: we make assumptions, can be lead down the wrong paths, an
 
 Data can be useful to visualize connections between groups/people and on various scales. 
 
+## Reading: *How To Make a Racist AI without really trying* :
+
+About plotting out negative and positive words. Adding neutral category too for nuance --> 
+* *however*: So I tried a version of this notebook where I put in 800 examples of neutral words, and put a strong weight on predicting words to be neutral. But the end results were not much different from what you're about to see.
+
+Sentiment requires context!
+
+### General Thoughts:
+- Data/code can be changed/there is always room for improvement. 
+*Example*:
+There are many things we could have done better:
+1. Weight words by their inverse frequency, so that words like "the" and "I" don't cause big changes in sentiment
+2. Adjust the averaging so that short sentences don't end up with the most extreme sentiment values
+3. Take phrases into account
+4. Use a more robust word-segmentation algorithm that isn't confused by apostrophes
+5. Account for negations such as "not happy"
+
+*But all of those would require extra code and wouldn't fundamentally change the results we're about to see.*  
+
+
+
 
