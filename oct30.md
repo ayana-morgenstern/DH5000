@@ -71,3 +71,10 @@ What does it do? It creates a corpus, finds collocates, finds clusters, counts w
 Pick what works best for you and what you are studying/trying to get. *Shiny Hammer problem: You apply this tool to everything because it is awesome*. 
 
 - corpus.byu.edu
+- Voyant Tools
+Use it to learn how computer-assissted analysis works. Use it to study texts. Add functionality to online collections. Saves what you do. The individual panels can be embedded into an open notebook. Can be run off computer (IE: doesn't have to be on web, more secure for sensitive data). 
+
+## Summary/General Thoughts:
+
+- Text analysis programming is a useful tool that allows reserachers to look at data from a large body of text that may not necessarily be apparent to the human reader.
+- Traditional modes of research are not outdated and the human element is very much present in research. 
