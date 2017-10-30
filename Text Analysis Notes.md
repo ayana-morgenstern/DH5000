@@ -60,3 +60,23 @@ Using tools to facilitate differential reading practices can facilitate self-ref
 Close reading and distant reading in data-mining projects are facilitated most by “technologies of collaboration”.
 
 Must be aware of research bias: but everything humans do is naturally biased so I don't see the big fuss with this. 
+
+## Reading: *Using Metadata to find Paul Revere*:
+
+Using data to find people belonging to terrorist groups. 
+
+*Key way of following data*: 
+Instead of seeing how (and which) people are linked by their shared membership in organizations, we see which organizations are linked through the people that belong to them both. People are linked through the groups they belong to. Groups are linked through the people they share. This is the “duality of persons and groups” in the title of Mr Breiger’s article.
+
+Different ways of calculating "centrality":
+“If I have to get from person a to person z, how likely is it that the quickest way is through person x?” 
+
+From a table of membership in different groups we have gotten a picture of a kind of social network between individuals, a sense of the degree of connection between organizations, and some strong hints of who the key players are in this world. And all this—all of it!—from the merest sliver of metadata about a single modality of relationship between people. 
+
+# General Thoughts:
+
+Data can be dangerous: we make assumptions, can be lead down the wrong paths, and yet can also find out an incredible amount concerning *relationships* between parcels of data/people. 
+
+Data can be useful to visualize connections between groups/people and on various scales. 
+
+
