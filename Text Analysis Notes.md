@@ -86,6 +86,11 @@ About plotting out negative and positive words. Adding neutral category too for 
 
 Sentiment requires context!
 
+Some people expect that fighting algorithmic racism is going to come with some sort of trade-off. There's no trade-off here. You can have data that's better and less racist. You can have data that's better because it's less racist. There was never anything "accurate" about the overt racism that word2vec and GloVe learned.
+
+You could abandon the idea of inferring sentiment for words, and only count the sentiment of words that appear exactly in the list. This is perhaps the most common form of sentiment analysis -- the kind that includes no machine learning at all. Its results will be no more biased than whoever made the list. But the lack of machine learning means that this approach has low recall, and the only way to adapt it to your data set is to edit the list manually.
+As a hybrid approach, you could produce a large number of inferred sentiments for words, and have a human annotator patiently look through them, making a list of exceptions whose sentiment should be set to 0. The downside of this is that it's extra work; the upside is that you take the time to actually see what your data is doing. And that's something that I think should happen more often in machine learning anyway.
+
 ### General Thoughts:
 - Data/code can be changed/there is always room for improvement. 
 *Example*:
@@ -97,6 +102,9 @@ There are many things we could have done better:
 5. Account for negations such as "not happy"
 
 *But all of those would require extra code and wouldn't fundamentally change the results we're about to see.*  
+
+- I am troubled by how difficult it seems to me to see patterns/interpret the data. How do you sort through all these numbers to figure out what is significant?
+- Also, I love the idea of hybrid approaches to research/data analysis. 
 
 
 
