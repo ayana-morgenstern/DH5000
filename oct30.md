@@ -47,3 +47,13 @@ So which is better? Depends on the analysis needed/wanted as well as the sample 
 ## Disciplinary Fears
 Fear of impact on jobs. Fear of losing credibility. Fear of losing "purity" of discipline. Development of art and culture. 
 Sense of "us" versus "them" --> Embracing challenge of technology and art intersecting. 
+
+## Text Analysis Activity - Part 1
+
+The article is about the opiod crisis. Textual features: short sentences. Repetition of key words. Do we want to count things like articles? What about words that are pluralized? Should this be one word or two? Accuracy: we skim over things. 
+Good thing we have tools that do this!
+
+Reading for content versus reading for data type things. 
+
+## Text Analysis Activity - Part 2
+How we can get a lot from a "text" just from a list of keywords: we can try and figure out content and context, but other than associations, we need the context. 
