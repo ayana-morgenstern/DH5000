@@ -1,10 +1,10 @@
 # Kirsten - Text Analysis
 
-What is text?
-What is text analysis?
-Disciplinary Fears
-Text Analysis Activity
-Text Analysis Tools
+1. What is text?
+2. What is text analysis?
+3. Disciplinary Fears
+4. Text Analysis Activity
+5. Text Analysis Tools
 
 ## - What is text?
 The wording of anything written or printed, the structure formed by the words in their order. 
