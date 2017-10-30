@@ -106,6 +106,14 @@ There are many things we could have done better:
 - I am troubled by how difficult it seems to me to see patterns/interpret the data. How do you sort through all these numbers to figure out what is significant?
 - Also, I love the idea of hybrid approaches to research/data analysis. 
 
+## Reading: *What Is Text Analysis, Really?*:
+
+View of what literature is and how it should be analyzed does not mesh with the actual practices of contemporary literary critics. 
+Technology moving past print concordances. Time and speed!
+- Can use text analysis to not just look at patterns quickly, but look at patterns *around* words, search for complex words, phrases, compare vocabulary between characters, visualize texts, and so on and so forth. 
+
+
+
 
 
 
