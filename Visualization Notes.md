@@ -2,7 +2,7 @@
 
 There are lots of different ways to use visualization: it is important to pick how to represent the data based on what you want your audience to understand from it. Visualization can be misleading.
 
-## Reading: *The Insta-Dead:
+## Reading: *The Insta-Dead*:
 
 Look at rhetoric surrounding social media posts selling human remains. 
 
@@ -79,13 +79,13 @@ Placing so many hashtags into a post is also a kind of search-engine optimisatio
 
 - Look at "visual grammar" of the images.
 
-## Reading: *Discovery and Justification are Different: Notes on Science-ing the Humanities:
+## Reading: *Discovery and Justification are Different: Notes on Science-ing the Humanities*:
 
 - The struggle between science and humanities is really about context: "I think the issue at the heart of this back and forth dialog is about two different contexts. This is about what you can do in the generative context of discovery vs. what you get can do in the context of justifying  a set of claims."
 - Some thoughts on justification: Validity is always about the quality of the inferences you draw and your ability to defend against alternative explanations.
 - When we separate out the the context of discovery and exploration from the context of justification we end up clarifying the terms of our conversation. There is a huge difference between “here is an interesting way of thinking about this” and “This evidence supports this claim.
 
-## Reading: *Defining Data for Humanists: Text, Artifact, Information or Evidence?: 
+## Reading: *Defining Data for Humanists: Text, Artifact, Information or Evidence?*: 
 
 -  Does data, in particular big data, require humanists to adopt a new methodological paradigm? Or, are the kinds of questions humanities scholars traditionally have explored through close reading and hermeneutic interpretation relevant to big data? In this brief essay I suggest some of the ways that humanists already think about and analyze their sources can be employed to understand, explore, and question data.
 -  First, as constructed things, data are a species of artifact. Second, as authored objects created for particular audiences, data can be interpreted as texts. Third, as computer-processable information, data can be computed in a whole host of ways to generate novel artifacts and texts which are then open to subsequent interpretation and analysis.
