@@ -2,7 +2,7 @@
 
 There are lots of different ways to use visualization: it is important to pick how to represent the data based on what you want your audience to understand from it. Visualization can be misleading.
 
-## Reading: The Insta-Dead:
+## Reading: *The Insta-Dead:
 
 Look at rhetoric surrounding social media posts selling human remains. 
 
@@ -78,3 +78,29 @@ Placing so many hashtags into a post is also a kind of search-engine optimisatio
 ### Photographic Analysis:
 
 - Look at "visual grammar" of the images.
+
+## Reading: *Discovery and Justification are Different: Notes on Science-ing the Humanities:
+
+- The struggle between science and humanities is really about context: "I think the issue at the heart of this back and forth dialog is about two different contexts. This is about what you can do in the generative context of discovery vs. what you get can do in the context of justifying  a set of claims."
+- Some thoughts on justification: Validity is always about the quality of the inferences you draw and your ability to defend against alternative explanations.
+- When we separate out the the context of discovery and exploration from the context of justification we end up clarifying the terms of our conversation. There is a huge difference between “here is an interesting way of thinking about this” and “This evidence supports this claim.
+
+## Reading: *Defining Data for Humanists: Text, Artifact, Information or Evidence?: 
+
+-  Does data, in particular big data, require humanists to adopt a new methodological paradigm? Or, are the kinds of questions humanities scholars traditionally have explored through close reading and hermeneutic interpretation relevant to big data? In this brief essay I suggest some of the ways that humanists already think about and analyze their sources can be employed to understand, explore, and question data.
+-  First, as constructed things, data are a species of artifact. Second, as authored objects created for particular audiences, data can be interpreted as texts. Third, as computer-processable information, data can be computed in a whole host of ways to generate novel artifacts and texts which are then open to subsequent interpretation and analysis.
+- Data is not in and of itself a kind of evidence but a multifaced object which can be mobilized as evidence in support of an argument.
+
+### Data as Interpretable Text
+- Data is created for an audience. Humanists can, and should interpret data as an authored work and the intentions of the author are worth consideration and exploration. At the same time, the audience of data also is relevant
+
+### Data as Processable Information:
+- you can process information—numerical or textual—to change your frame of understanding for a particular set of data.
+- Importantly, the results of processed information are not necessarily declarative answers for humanists
+
+### Data Can Hold Evidentiary Value:
+- . In much the same way that encoding a text is an interpretive act, so are creating, manipulating, transferring, exploring, and otherwise making use of data sets.  Therefore, data is an artifact or a text that can hold the same potential evidentiary value as any other kind of artifact. 
+-I contend that data is not a kind of evidence; it is a potential source of information that can hold evidentiary value.
+
+### Final Thoughts:
+- Approaching data in this way should feel liberating to humanists.  For us, data and the capabilities of processing data are not so much new methodological paradigms, rather an opportunity for us to bring the skills we have honed in the close reading of texts and artifacts into service for this new species of text and artifact. Literary scholar Franco Moretti already has asked us to pivot, to begin to engage in distant reading. What should reassure us all is that at the end of the day, any attempt at distant reading results in a new artifact that we can also read closely.
