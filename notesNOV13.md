@@ -26,3 +26,5 @@ Sometimes visualization needs to be explained. Show what is going on.
 TOOLS: Timeline, Exhibit, Modest Maps, Visual.li, Fusion Charts. JavaScript.info.thistoolkit. 
 
 Exercise: Visual representation of the self. Are there patterns and what do they mean? Why are they happening?
+
+Remember to think not only of what data you want to use, but how you want to convey it, and the audience.
