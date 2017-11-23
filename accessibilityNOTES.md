@@ -35,3 +35,6 @@
 - Reading helps us become more empathic, more tuned in to those around us. I want my daughter to love literature, regardless of what genre(s) she ends up enjoying, but I want her to learn from it. Ableism is history. We deserve the books we read to reflect this. We owe it to ourselves, to our society, and to our progeny. We owe it to this progressive, fantastic genre. The way we think and talk about disabilities needs to change. Period.
 - We are not broken. We are not bent.
 - We are powerful, capable, beautiful people. We are important. We are normal. Our normal might be a little different than yours, but it is still normal. We’re no better or worse, more capable or incapable than anyone else. Just different, and shouldn’t we celebrate that?
+
+## Reading: *Disability, Universal Design, and the Digital Humanities*: 
+-
