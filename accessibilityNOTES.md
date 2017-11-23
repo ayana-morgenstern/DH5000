@@ -1,6 +1,6 @@
 # Accessibility
 
-## Reading: Accessibility Whack-a-mole:
+## Reading: *Accessibility Whack-a-mole*:
 
 ### Conflicts of Accessibility:
 
@@ -16,3 +16,22 @@
 - Look closely and critically.
 - To serif or not? sans serifs tend to be easier to read!
 - Use **bold** for emphasis instead of *italics* : this is also easier to distinguish/doesn't slow reading speed. 
+- Underline with care: good for links, but can interfere with some functions/descenders. 
+
+- Think about **Space**:
+- Comfortable line lengths, generous line heights, sensible line spacing. 
+
+### Words:
+- Don't use jargon, try and use clear and conscise language. 
+
+### Nothing is ever perfect/fixed:
+- Build with web standards. Ensure that whatever adaptive technologies or techniques people use will work with your site.
+- Think twice about icon fonts. All of your icons will disappear if someone overrides your site’s fonts.
+- Show people how to override font styles. Would your users benefit from a how-to like the BBC’s?
+
+## Reading: *I Am Not Broken: The Language of Disability*:
+- Ableism is that belief that everyone who is able-bodied is “normal” and everyone else is abnormal. Abelism is probably one of the most common kinds of –ism’s, and it rarely gets talked about.
+- We are not broken; we’re just a different kind of normal. We are not incapable or unable; we just get things done a little differently.
+- Reading helps us become more empathic, more tuned in to those around us. I want my daughter to love literature, regardless of what genre(s) she ends up enjoying, but I want her to learn from it. Ableism is history. We deserve the books we read to reflect this. We owe it to ourselves, to our society, and to our progeny. We owe it to this progressive, fantastic genre. The way we think and talk about disabilities needs to change. Period.
+- We are not broken. We are not bent.
+- We are powerful, capable, beautiful people. We are important. We are normal. Our normal might be a little different than yours, but it is still normal. We’re no better or worse, more capable or incapable than anyone else. Just different, and shouldn’t we celebrate that?
