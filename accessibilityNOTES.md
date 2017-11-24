@@ -51,3 +51,45 @@
 - by working to meet the needs of disabled people—and by working with disabled people through usability testing—the digital humanities community will also benefit significantly as it rethinks its assumptions about how digital devices could and should work with and for people
 - To continue to create projects designed primarily for the screen-keyboard-mouse environment would be foolish: if a resource doesn’t work on a device that lacks one of those components, then that resource is already worthless to a significant number of computer users, disabled and nondisabled alike. As we observe contemporary computing devices proliferate and diversify, we need to plan for a future in which our current digital resources continue to be not only useful but usable.
 
+## Reading: *Access*: 
+- “about 15% of the world’s population lives with some form of disability,”.
+- . Accessibility exists when a user (who may or may not have a particular disability) can easily make use of a particular digital resource (which may be textual, auditory, visual, or some combination) with their choice of technology (which may or may not be explicitly labeled “assistive” technology) and can, as a result, cognitively process the information as it comes to them from that resource through that technology.
+-  primarily visual information needs to be adequately described with textual information – written, or aural, or both – in order to make it usable by those who are blind or have low vision. 
+- Reading is full of other readings/resources to look at to think about accessibility. 
+
+## Reading: *Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities*:
+- People with disabilities using computers have similar interaction limitations as people without disabilities who are using mobile devices. Both experience similar barriers when interacting with websites and web applications.
+- The barriers on this page are grouped under four principles: perceivable, operable, understandable and robust.
+
+### - Perceivable :
+Information and user interface components must be presentable to users in ways they can perceive.
+-Information conveyed solely with color
+-Large pages or large images
+-Multimedia with no captions
+-Audio-only prompts (beeps) for important information (warnings, errors)
+-Non-text objects (images, sound, video) with no text alternative
+-Text entry
+-Content formatted using tables or CSS, and reading order not correct when linearized (for example when CSS or tables not rendered)
+-Information conveyed only using CSS (visual formatting)
+
+### Operable:
+User interface components and navigation must be operable.
+-Mouse required for interaction and navigation
+-Scripting required to operate content
+-Special plugin required
+-Missing or inappropriate page title
+-Inconsistency between focus (tab) order and logical document content sequence
+-Non descriptive link label
+
+#### Understandable
+Information and the operation of user interface must be understandable.
+-Long words, long and complex sentences, jargon
+-Content spawning new windows without warning user
+-Blinking, moving, scrolling or auto-updating content
+
+### Robust
+Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
+-Invalid or unsupported markup
+-Scripting required to generate content
+
+
