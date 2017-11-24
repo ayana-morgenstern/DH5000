@@ -37,4 +37,17 @@
 - We are powerful, capable, beautiful people. We are important. We are normal. Our normal might be a little different than yours, but it is still normal. We’re no better or worse, more capable or incapable than anyone else. Just different, and shouldn’t we celebrate that?
 
 ## Reading: *Disability, Universal Design, and the Digital Humanities*: 
--
+- It is imperative that digital humanities work take into account the important insights of disability studies in the humanities, an interdisciplinary field that considers disability “not so much a property of bodies as a product of cultural rules about what bodies should be or do,” in the words of Rosemarie Garland-Thomson, a prominent figure in the field. 
+- We classify some software and hardware tools as “assistive technology”—sometimes the term “adaptive technology” is used instead—because they have been designed specifically to assist those people with “special needs.” We might consider, however, that there is no “natural” way to interact with the 1’s and 0’s that make up the data we are interested in creating, transmitting, receiving, and using; there is only the model we have chosen to think of as natural. All technology is assistive, in the end.
+
+### Universal Design Defined:
+- the term “describe[s] the concept of designing all products and the built environment to be aesthetic and usable to the greatest extent possible by everyone, regardless of their age, ability, or status in life” (“Ronald L. Mace”).
+- Is there a difference between universal design and accessibility principles?
+-  To embrace accessibility is to focus design efforts on people who are disabled, ensuring that all barriers have been removed. To embrace universal design, by contrast, is to focus “not specifically on people with disabilities, but all people”. 
+- universal design is efficient
+- applying universal design principles to digital resources will make those resources more likely to be compatible with multiple devices.
+
+### Reciprocal benefits:
+- by working to meet the needs of disabled people—and by working with disabled people through usability testing—the digital humanities community will also benefit significantly as it rethinks its assumptions about how digital devices could and should work with and for people
+- To continue to create projects designed primarily for the screen-keyboard-mouse environment would be foolish: if a resource doesn’t work on a device that lacks one of those components, then that resource is already worthless to a significant number of computer users, disabled and nondisabled alike. As we observe contemporary computing devices proliferate and diversify, we need to plan for a future in which our current digital resources continue to be not only useful but usable.
+
