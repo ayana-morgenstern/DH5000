@@ -57,3 +57,53 @@ Assistive is created to perform interactions with the abilities they already hav
 - Assimilation and Accomodation: how we learn and put things into our mental models first, and then modify mental models.
 - Is academic writing in the middle?
 - Is there a move to becoming more accessible? 
+
+Plain language; writing for assimilation: make them understand the frameworks. 
+*Make the right thing to do the easiest thing to do*
+- No jargon, use active voice, use everyday words, shorter sentences, words with less syllables. 
+
+### A11Y and Compliance online:
+- Laws/Transparency/Governance/Policies and Standards/Requirements/Rules and Regulations.
+They are sets of lenses: they rarely totally align for full compliance: usually a retrofit gets done. 
+
+Inclusive by design, accessible by default. 
+
+Current standards: W3C (World Wide Web Consortium), WAI (Web Accessibility Initiative), IDPF (international digital publishing forum). 
+These are just guidance.
+
+### 4 Principles:
+- Perceivable
+- Operable
+- Understandable
+- Robust
+
+### Case Study/Mobile Devices:
+- Perceivable:
+Improper use of colour, media not captioned, sense-bias on content (visual, auditory)
+- Operable:
+No coherent structure to content, special scripting/plugins required to use/interact with content, pointing device required to interact with content.
+- Understandable:
+Non-plain language, intent of interactions is unclear (weird pop ups, dialogue boxes), attention thieves (too much stuff going on on the page, distracting). 
+- Robust: 
+Non-system agnostic.
+
+### Activity:
+Funkify.org : simulates different disabilities. 
+
+### Social Construction of Disability
+- Othering: content vs container. Look at someone as intrinsically different from ourselves even if they are not. 
+They are able to contribute to human knowledge/experience. 
+- From disabled to diff-abled. 
+- Not every situation is appropriate for every person. 
+
+### Ethical Design:
+Designing for accessibility. About diverse groups of people coming and designing for themselves. 
+- Decentralized, private, open, interoperable. Diversity. (respect human rights)
+- functional, convenient and reliable (respect human effort)
+- delightful (respect human experience)
+
+
+Accessibility is a BIG topic.
+Impact on digital is sometimes indirect. 
+About the human experience, which can be hard to compartmentalize/quantify in digital terms. 
+EMBRACE UNIVERSAL DESIGN NOT AS OUTSIDERS BUT FROM THE IDEA TO THE ITERATION OF A DESIGN.
