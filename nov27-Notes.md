@@ -107,3 +107,6 @@ Accessibility is a BIG topic.
 Impact on digital is sometimes indirect. 
 About the human experience, which can be hard to compartmentalize/quantify in digital terms. 
 EMBRACE UNIVERSAL DESIGN NOT AS OUTSIDERS BUT FROM THE IDEA TO THE ITERATION OF A DESIGN.
+
+
+*PROFHACKER* Always show you cool things, and have good discourse/discussions.
