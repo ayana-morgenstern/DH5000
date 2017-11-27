@@ -110,3 +110,5 @@ EMBRACE UNIVERSAL DESIGN NOT AS OUTSIDERS BUT FROM THE IDEA TO THE ITERATION OF 
 
 
 *PROFHACKER* Always show you cool things, and have good discourse/discussions.
+
+- wave.webaim.org --> will assess the accssibility of a website./book. 
