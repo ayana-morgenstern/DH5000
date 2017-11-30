@@ -63,3 +63,30 @@ But how could we visualize the spatial distortions introduced by variables such 
 
 - The natural world and its cultural corollary exist, but the humanistic concept of knowledge depends upon the interplay between a situated and circumstantial viewer and the objects or experiences under examination and interpretation. That is the basic definition of humanistic knowledge, and its graphical display must be specific to this definition in its very foundational principles. The challenge is enormous, but essential, if the humanistic worldview, grounded in the recognition of the interpretative nature of knowledge, is to be part of the graphical expressions that come into play in the digital environment. If we don’t engage with this challenge, we give the game away in advance, ceding the territory of interpretation to the ruling authority of certainty established on the false claims of observer-independent objectivity in the "visual display of quantitative information."
 
+## Reading: "The Embodied GIS. Using Mixed Reality to explore multi-sensory archaeological landscapes":
+
+- This article explores a number of ways that these new multi-sensory developments can be harnessed and linked to a traditional GIS database using Mixed Reality. Through the example of three different sensory applications, I will demonstrate the implementation of an embodied GIS – allowing a multi-sensorial experience of archaeological data in situ, and enabling archaeologists to explore data in new ways, encouraging new interpretations by thinking and working through the body.
+- MR (*Mixed Reality*) provides an opportunity to merge the real world with virtual elements of relevance to the past, including 3D models, soundscapes, smellscapes and other immersive data. In this way, the results of sophisticated desk-based GIS analyses can be experienced directly within the field and combined with a body-centred exploration of the landscape, creating an embodied GIS.
+
+### Virtual Reality/Mixed Reality?!:
+- the term Virtual Reality now really only covers one aspect of so-called virtuality. As technology has advanced, we are now able to merge computer-generated 'reality' with the real world, creating a Mixed Reality (MR) (Ohta and Tamura 1999). This has lead to the creation of a scale of virtuality – the Reality- Virtuality continuum (Milgram and Colquhoun 1999) – shown in Figure 1. This scale goes from the Real Environment (RE) through Augmented Reality (AR), Augmented Virtuality (AV) to a full Virtual Environment (VE).
+- The focus for this article is the Augmented Reality (AR) section of the continuum. AR is a blend of the real world with some limited level of augmentation from the virtual world. AR 'allows a user to work in a real world environment while visually receiving additional computer-generated or modelled information to support the task at hand'.
+
+### Embodied GIS:
+- AR can be used in an active way as a means of investigation and to find out new things about the past, rather than just to consume existing knowledge.
+- we need to move away from the office and use the GIS technology to give archaeological objects and concepts a place in physical space. We need to be able to explore and use the GIS data within the space that is being modelled.
+- My concept of an embodied GIS, then, is simply this – the combination of traditional GIS technology and Augmented Reality technology – allowing the experience of the GIS data within the field and the ability to feed directly from the field into the GIS. All of the data held within the GIS should be readily accessible when actually visiting the archaeological site. The data need to be able to be sensualised as if they were directly there in the landscape – overlaid on the hills, plains and rivers themselves, reacting, developing and changing as one moves through the space. 
+
+### The Embodied GIS in Action:
+
+#### Vision(Leskernick Hill, Bodmin Moor, Cornwall. England)
+-  I undertook a formal experiment to investigate the effectiveness of using visual augmentation in the embodied GIS to provide a feeling of presence in the landscape and to assess whether the embodied GIS helps in identifying the location, size and shape of the Bronze Age houses. *gives feeling of landscape 'coming to life'*
+
+#### Sound (York Municipal Cemetery, England):
+- Our team decided to explore the use of sound in the cemetery and by creating a multi-layered soundscape aimed to see how that would affect a visitor to the cemetery and also investigate its power as a pedagogical tool, enabling visitors to engage further with the history of the cemetery itself. The resulting application, entitled Voices/Recognition, was 'designed to augment one's interaction with York Cemetery, its spaces and visible features, by giving a voice to the invisible features that represent the primary reason for the cemetery's existence: accommodation of the bodies buried underground'. 
+- Voices/Recognition takes this basic premise and applies it to the data from the cemetery records. By geolocating each grave and creating data about the grave occupant from the census records and the headstone it is possible to create a standard GIS database of each grave and its associated data. Many cemeteries already hold this data and it is used for many straightforward queries, some as simple as finding the grave of one's relatives. However, when the database is used with the Voices/Recognition application, this database can then be used to play each grave's 'story' as the user is walking around the cemetery. The resulting embodied GIS takes this seemingly prosaic database of grave details and transforms it into a 'live' database that can be explored and experienced in situ.
+
+####   Smell (Moesgård Archaeological Trail, Denmark):
+'Smell, this most liminal of senses, carries a great subversive potential in its ability to violate boundaries, assault rationality, and evoke powerful emotions of disgust and attraction.' (Fjellestad 2001, 650).
+- 
+
