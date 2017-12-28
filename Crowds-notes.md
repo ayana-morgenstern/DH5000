@@ -57,3 +57,35 @@ There are problems with the term community: can foster a false sense of belongin
 - Teachers have little more to fear from students' starting with Wikipedia than from their starting with most other basic reference sources. They have a lot to fear if students stop there. To state the obvious: Wikipedia is an encyclopedia, and encyclopedias have intrinsic limits.
 - Professional historians have things to learn not only from the open and democratic distribution model of Wikipedia but also from its open and democratic production model. Although Wikipedia as a product is problematic as a sole source of information, the process of creating Wikipedia fosters an appreciation of the very skills that historians try to teach.
 - Wikipedia and Linux show that there are alternative models to producing encyclopedias and software than the hierarchical, commercial model represented by Bill Gates and Microsoft. And whether or not historians consider alternative models for producing their own work, they should pay closer attention to their erstwhile competitors at Wikipedia than Microsoft devoted to worrying about an obscure free and open-source operating system called Linux.
+
+## Reading: *"Crowdmilking" by Trebor Scholz*: 
+
+- Incredibly shaky working conditions lead to personal despair but such precarity should not be understood as unsolvable individual problem. At least 10 million people are working in the crowdsourcing industry and you can add the some 42 million US-American freelancers, and the unpaid student interns who --according to Ross Perlin-- generate at least $2 billion in profits for corporate America each year. And don’t forget the 20,000 Japanese workers who die of Karoshi, death-by-overwork, year in year out. 
+- Essentially, digital labor and crowdsourcing in particular, set back the clock for organized labor to the second half of the 19th century when the 80-hour week was the norm. 
+- DIGITAL LABOUR AND MARXISM
+- Much of the literature is coming to terms with what labor actually means in the context of the Internet. Is labor even the right term to apply here? Is what we are seeing on Facebook really Exploitation 2.0, or, "crowdmilking," as I refer to it? Scholars account for the blurring of work and leisure, play and labor. The German media theorist Julian Kuecklich introduced the term playbor.
+- DEFINING DIGITAL LABOUR: *a human activity sometimes undertaken solely for pleasure that has economic and symbolic value and can be performed at any time. This labor is not bound to the factory, the office, or the household; it is performed constantly – in real time- on unprecedented scale and on a large variety of devices. Leisure and work are enmeshed beyond recognition.* 
+- WE ARE ALL PARTICIPATING IN IT (EXAMPLES OF EXPLOITATION): 
+Huffington is an interesting example because publishers and magazines like The Atlantic often cite such writing for exposure in their effort to explain why they’re not paying some of their writers (Coscarelli). “‘Exposure Doesn’t Feed My F*cking Children!, ’ as one journalist put it.
+
+The broad landscape of unwaged digital work also includes the volunteer customer service workers who put in regular shifts for free on sites like Apple or Verizon. And yes, I am also talking about our cognitive labor on Facebook, Reddit, LinkedIn, and Google.
+
+- If we are not paying for the service, then we are the product and services like Gmail and Facebook are becoming socially too expensive.
+
+- But let’s take a slight turn at this point, and also acknowledge that there are forms of digital work that I’m more than happy to give away for free. They are equally part of this landscape and it doesn’t need much explanation when I say that working for Wikipedia, Open Street Map, Science Commons, Foldit,[12] Challenge.org, Distributed Proofreaders, or eBird [13], is not the same like “working for,” contributing our time and data to, corporate intermediaries.
+
+- WAGED DIGITAL LABOUR:
+99designs offers competitive, crowdsourcing for designers.  Currently, the company has a pool of 200,000 registered designers who engage in such speculative design work, which the Society of Graphic Designers of Canada prohibits for its certified members.
+
+So, for example if you are a client who is looking for a logo you might spend the very reasonable sum of $300. And for that you receive 116 completely executed designs. But of these 116 designers only one will receive the payment of $180, and I’m not sure if I have to spell this out but that means that 115 designers worked for free, for no pay at all.
+*IDEA OF WASTING CREATIVE LABOUR*
+
+- ANYONE CAN ENTER THE FIELD, EXPERIENCE MEANS NOTHING: What it means to be a designer, then, has completely changed.
+- “The border is closed but the network is open. Employers get all the work without the worker,” as Alex Rivera put it in his film Sleep Dealer: no commitment, no care for the worker, just a “superabundance” of the global 24/7 work force.
+- Importantly, companies insist that all crowdsourced workers are independent contactors instead of employees, a status that would come with rights. 
+**DOMESTIC DIGITAL LABOUR**: (AMT) There is an intriguing parallel to care work, to invisible domestic labor, to the Wages for Housework Campaign that didn’t so much ask for housework to be paid by the hour but that much more questioned the entire social construction of that work
+- AMT uses imperfect computers to integrate a network of humans into the processes of the machine. It is trying to make you forget about the workers.
+**The goal of Amazon Mechanical Turk is profit and not the liberation of workers.**
+- I doubt that any of you would be surprised if I tell you that for employers, or what Amazon calls "requesters," this is a sugar sweet deal. They have access to a global 24/7 workforce on demand, they remain anonymous and they only pay if they are satisfied with the results. Or, they don’t pay at all and can still use the work. Amazon explicitly permits that.
+-On Amazon Mechanical Turk, some people get busy after their regular job is done; they do it instead of watching television. The division between work/play, work/consumption, and work/entertainment and work/leisure is blurred beyond recognition. Some AMT workers don’t think of what they are doing as labor.
+- If current trends continue, crowdsourcing will be associated with virtual sweatshops
