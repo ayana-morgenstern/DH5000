@@ -17,4 +17,4 @@
 ### Tools/Exercises?:
 
 - Maybe print of some Generonimos and try and apply it to a game? *http://www.galaxykate.com/generominos/generominos.pdf* Print some off and go through the scenarios maybe? See how to use these cards to understand HOW computers work better/how input/output is played out. 
-- http://tracery.io : text generating (can create twitter bots). 
+- http://tracery.io : text generating (can create twitter bots). *this is a pretty complex tool tbh*
