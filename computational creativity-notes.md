@@ -36,6 +36,21 @@ Partly, audience.  Though there are exceptions, this field has traditionally bee
 - The basics of a Twine game are passages with links to passages. Passages are entered into the Twine Editor as straight text and links use a simple syntax in Twine 2 Harlowe:
 [[Text of Link Player Sees->Name of passage link goes to]]
 - Twine offers interactive text designers a great deal of power and functionality beyond this basic passage/link combo: variables can be created to store, track, and display information, conditional statements allow variety in the text displayed and the passages visited, and thus variety in players’ journeys and outcomes, and there are many ways to format and link text to create a variety of effects. 
+
+## Video: Can a Computer be Creative?: 
+<https://www.youtube.com/watch?v=ECVx8ENvgV8>
+
+- Computers are good at mechanical tasks, but what about "creativity"/input from the actual computer?
+- Can computers add something they're not programmed to add specifically? How can it do these creative things? 
+- AI and creativity: how can creativity be modelled or simulated? 
+Various types of computational creativity (some examples):
+1. Language
+2. Music and sound
+3. Science
+4. Art and Visual
+5. Lifestyle
+
+Different systems work in different ways: bunch of rules programmed, told here are the rules (some can be broken). Or maybe it's programmed to mimic the brain. 
 ### Definition:
 
 - A definition of creativity (centered on production): Creativity is any act, idea, or product that changes an existing domain, or that transforms an existing domain into a new one.
@@ -49,3 +64,4 @@ Partly, audience.  Though there are exceptions, this field has traditionally bee
 - Sketch-a-bit (Android Game)
 - Twine (interactive fiction design tool). <http://twinery.org>
 - Inform 7
+- <http://robotcomix.com/HandMadeByMachines/mobile/>
