@@ -25,9 +25,17 @@ Partly, audience.  Though there are exceptions, this field has traditionally bee
 1. Never Start With A Blank Page.
 
 ## Reading: *Twine, Inform, and Designing Interactive History Texts By Jeremiah McCall*:
+- having students research and design historical simulation games is an outstanding high order thinking assignment that exercises many critical skills of the historian, especially:
+1. The ability to research, evaluate, and analyze evidence about the past
+2. The ability to combine pieces of evidence into a plausible interpretation of the past
+3. The ability to discriminate between the critical and trivial parts of a historical event or process
+4. The ability to use these skills to develop defensible, coherent, and meaningful interpretations of the past.
 
-
-
+- Inform is an amazing tool. It really is; its relative accessibility and ease of use combined with its power and sophistication is amazing. As helpful and relatively easy to learn as it is, developing anything beyond the simplest interactions with objects and NPCs tends to require devoting time to coding beyond what most history teachers can reasonably afford in their classes.
+- Twine: Twine, however, is essentially a tool that enables players to create linked hypertexts easily that publish to a single html, css, and JavaScript page, a single web page in other words. The player reads a passage of text, selects how to respond to the passage by clicking on the available hyperlinks and then is delivered a new passage of text.
+- The basics of a Twine game are passages with links to passages. Passages are entered into the Twine Editor as straight text and links use a simple syntax in Twine 2 Harlowe:
+[[Text of Link Player Sees->Name of passage link goes to]]
+- Twine offers interactive text designers a great deal of power and functionality beyond this basic passage/link combo: variables can be created to store, track, and display information, conditional statements allow variety in the text displayed and the passages visited, and thus variety in players’ journeys and outcomes, and there are many ways to format and link text to create a variety of effects. 
 ### Definition:
 
 - A definition of creativity (centered on production): Creativity is any act, idea, or product that changes an existing domain, or that transforms an existing domain into a new one.
@@ -39,3 +47,5 @@ Partly, audience.  Though there are exceptions, this field has traditionally bee
 - <http://tracery.io> : text generating (can create twitter bots). *this is a pretty complex tool tbh*
 - Elegy to a dead world: creative writing game. <https://www.youtube.com/watch?v=bfps2HKE4B4>
 - Sketch-a-bit (Android Game)
+- Twine (interactive fiction design tool). <http://twinery.org>
+- Inform 7
