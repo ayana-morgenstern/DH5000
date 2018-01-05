@@ -20,6 +20,9 @@ an authored system or software that:
 - Why hasn’t anyone identified this field yet?
 Partly, audience.  Though there are exceptions, this field has traditionally been sold as a young, or female, which is a recipe for not being taken seriously by either academics or software engineers.
 - A definition of creativity (centered on production): Creativity is any act, idea, or product that changes an existing domain, or that transforms an existing domain into a new one.
+- To cite wallpaper designer, socialist and futurist, William Morris, we are creative so that “our days will be happy and eventful.” We can scientifically demonstrate that people who do art therapy are happier, healthier, more at ease, less in pain, and more social after having a creative experience.  The existence of pottery-painting and paint-by-numbers kits shows proof that people enjoy being creative, even if the world won’t be noticeably changed by their output. It also turns out that restrictions, constraints, and support structures and guided assistance don’t fundamentally undermine the creative process, but often enhance it.
+- **Patterns in Casual Creator products/software**:
+1. Never Start With A Blank Page.
 
 
 
@@ -30,6 +33,7 @@ Partly, audience.  Though there are exceptions, this field has traditionally bee
 
 ### Tools/Exercises?:
 
-- Maybe print of some Generonimos and try and apply it to a game? *http://www.galaxykate.com/generominos/generominos.pdf* Print some off and go through the scenarios maybe? See how to use these cards to understand HOW computers work better/how input/output is played out. 
-- http://tracery.io : text generating (can create twitter bots). *this is a pretty complex tool tbh*
-- Elegy to a dead world: creative writing game
+- Maybe print of some Generonimos and try and apply it to a game? *<http://www.galaxykate.com/generominos/generominos.pdf>* Print some off and go through the scenarios maybe? See how to use these cards to understand HOW computers work better/how input/output is played out. 
+- <http://tracery.io> : text generating (can create twitter bots). *this is a pretty complex tool tbh*
+- Elegy to a dead world: creative writing game. <https://www.youtube.com/watch?v=bfps2HKE4B4>
+- Sketch-a-bit (Android Game)
