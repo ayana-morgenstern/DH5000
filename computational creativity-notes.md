@@ -24,6 +24,8 @@ Partly, audience.  Though there are exceptions, this field has traditionally bee
 - **Patterns in Casual Creator products/software**:
 1. Never Start With A Blank Page.
 
+## Reading: *Twine, Inform, and Designing Interactive History Texts By Jeremiah McCall*:
+
 
 
 ### Definition:
