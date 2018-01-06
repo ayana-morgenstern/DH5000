@@ -54,7 +54,20 @@ Different systems work in different ways: bunch of rules programmed, told here a
 ### Definition:
 
 - A definition of creativity (centered on production): Creativity is any act, idea, or product that changes an existing domain, or that transforms an existing domain into a new one.
+
+WHY DO THIS? Get computers to do creative things, but also to understand human creativity.
+How do we judge creativity? It is quite subjective. 
+What does it mean to be creative: word association (ideas, imaginative, produce, create, ability, originality, new). You should know a word by the company it keeps. 
+Whole other corpus on creativity and do distant reading: 14 different areas of creativity (intention and emotional involvement) (Independence and freedom) (Progression and development)(domain competence) etc. different areas/programs put different weight on certain categories. ie: results over originality and vice versa. ie: music improvisation isn't always what "sounds" "best". Process versus result. 
+
 ### Issues/Debates:
+- How do we define creativity? Should a computer/program act as an aid/guide for creativity, or can it be creative/should it be creative on its own? Is that true creativity? How do we program creativity/spontaneity?
+- Should we priviledge emotional involvement/flow?
+- How important is the intent behind the results?
+- How can we give a system intent/Emotional involvement?
+
+**Can computers really be creative?** 
+- They already are! We just have to *accept* the creativity of computers. It is a fast burgeoning field. 
 
 ### Tools/Exercises?:
 
