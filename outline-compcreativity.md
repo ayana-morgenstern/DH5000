@@ -15,7 +15,7 @@
 3. How important is the intent behind the results?
 4. How can we give a system intent/Emotional involvement?
 
-##Exercises/Case Study:
+## Exercises/Case Study:
 - Generonimos (get students to follow some scenarios or come up with their own, and then discuss what the exercise makes them understand/question about computational creativity)
 - Do something using Inform (simple hyperlink/choose-your-own-adventure type project **this would be optional/for students who are really interested in the topic/project**)
 - Have an interactive space for students to list/brainstorm where they've encountered computational creativity. Examples:
