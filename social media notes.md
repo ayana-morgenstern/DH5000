@@ -22,5 +22,13 @@ Read laterally
 ## *Reading: "Analying Retweets"*:
 - Walks you through how to analyze retweets and extract data from them. https://inkdroid.org/2017/08/31/retweets/
 
-## *"BREAKING UP WITH FACEBOOK: UNTETHERING FROM THE IDEOLOGICAL FREIGHT OF ONLINE SURVEILLANCE" by Estee Beck*:
+## *Reading: "BREAKING UP WITH FACEBOOK: UNTETHERING FROM THE IDEOLOGICAL FREIGHT OF ONLINE SURVEILLANCE" by Estee Beck*:
+- the addition of Facebook’s GraphSearch — a super search engine based on phrases — affirmed how much data the social media company had about users, and established Facebook’s willingness to share such data with just about whomever wanted access. 
+- Tracking technologies mine our browsers for data; computer algorithms take the data, run calculations, and output personalized information for the user.
+- Ultimately, the discussion of a refracted online experience addresses a larger conversation about the persuasive abilities of computer algorithms and code. 
+- With personalized advertisements and recommendations, we might turn to ask, what are we not seeing? How are we being categorized? Might this be a form of discriminatory practice?
+- We can no longer afford to sit passively by while surveillance technologies harvest our data because there is too much at stake.
+
+## *Reading: "Wikipedia Doesn’t Realize It's the Developing World’s Internet Gatekeeper" by Jason Koebler*:
+
 
