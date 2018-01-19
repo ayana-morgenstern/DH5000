@@ -30,5 +30,8 @@ Read laterally
 - We can no longer afford to sit passively by while surveillance technologies harvest our data because there is too much at stake.
 
 ## *Reading: "Wikipedia Doesn’t Realize It's the Developing World’s Internet Gatekeeper" by Jason Koebler*:
-
+- Angolans are using free access to Wikipedia and Facebook to trade copyrighted movies, music, and television shows, a development that is decidedly against Wikipedia's rules. The product is called Wikipedia Zero, which "zero rates" all data going to and from Wikipedia websites from mobile phone users in 64 developing countries, meaning the customer doesn't pay any money for it.
+- Wikipedia and Facebook have now become the internet for many Angolans and that it is now a gatekeeper for how they access it.
+- there are no good solutions outside of lowering the cost and expanding the availability of real, generic internet access for people in the developing world. 
+- What Wikimedia is faced with are two bad options—censor and monitor the internet or allow Angolans to break Wikipedia's rules and maybe the law—that underscore the fundamental problems with zero rating programs that may have been started with the best of intentions.
 
