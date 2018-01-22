@@ -33,3 +33,9 @@ What is social media?
 - can facilite networks/networking that you could not usually encounter **can also exacerbate existing bias** 
 - selling privacy for convenience and interactivity. 
 - creating digital copies of ourselves: simulacra!
+- do companies have social responsibility as to how their platforms are used? Difference between legal responsibility/social responsibility. 
+- Troll: clear intent. often about disagreement. "shit-disturbing". 
+- Bot: Intent is ambiguous. automated.
+- General public: the masses. the average layperson. 
+
+-docnow.io (documenting the now: how to archive/study social media. how newspapers rewrite the news)
