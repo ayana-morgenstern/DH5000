@@ -27,3 +27,9 @@ What is social media?
 - twitter essay/twitter conference : these different formats allow for different levels of engagement. 
 
 **gamergate** weaponization of the internet. attacking the norms of what is truth. "if you share a lie loud enough, people will stop believing in the things that are true". **importance of fact-checking/media literacy** 
+
+*these platforms often attract like-minded to like-minded* now requires effort to find opposing mindsets. or we are searching for it to disagree with it: the intent is not to debate and become more open-minded.  
+
+- can facilite networks/networking that you could not usually encounter **can also exacerbate existing bias** 
+- selling privacy for convenience and interactivity. 
+- creating digital copies of ourselves: simulacra!
