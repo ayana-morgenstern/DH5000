@@ -23,6 +23,9 @@ Digital vs traditional:
 | expectation to be public facing | interaction with public/audience |
 | curating "self" | questions of authenticity |
 | pressure to publish/inform public of work | being able to disseminate work (especially if marginalized) |
+| challenge unpopular ideas | challenge unpopular ideas! |
+| remain level-headed | diversity of voices |
+
 
 
 
