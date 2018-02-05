@@ -25,6 +25,15 @@ Digital vs traditional:
 | pressure to publish/inform public of work | being able to disseminate work (especially if marginalized) |
 | challenge unpopular ideas | challenge unpopular ideas! |
 | remain level-headed | diversity of voices |
+| intellectual property and ownership| more accessible| 
+| personal attacks and trolls| open dialogue/forum |
+
+### Personal attacks and trolls:
+ *How can we mitigate this?*
+ 
+ - Harnessing it as data/thing to study!!!!
+ - Disabling comments/forcing people to comment/critique on their own space. 
+ - engaging in dialogue with the trolls (how useful is this actually?) 
 
 
 
