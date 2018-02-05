@@ -17,5 +17,12 @@ Digital vs traditional:
 | credibility questions | authority/reinforces power structures| 
 
 
+| Challenges | Opportunities |
+| -------- |:---------:|
+| exposing to criticism/attack | less-public facing(more protected) |
+| expectation to be public facing | interaction with public/audience |
+| curating "self" | questions of authenticity |
+| pressure to publish/inform public of work | being able to disseminate work (especially if marginalized) |
+
 
 
