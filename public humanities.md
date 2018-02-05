@@ -9,11 +9,14 @@ Public humanities: engage in discourse: collaborative. Different bases of knowle
 - engage public in conversations/programs on humanities and relevance to current life. 
 
 Digital vs traditional: 
-| Digital       | Traditional        |
+
+| Digital       | Traditional      |
+
 | ------------- |:-------------:| 
-| info access   | scarcity | 
-| info overload    | barriers to reach audience     | 
-| credibility questions | authority/reinforces power structures | 
+
+info access   | scarcity | 
+| info overload    | barriers to reach audience| 
+| credibility questions | authority/reinforces power structures| 
 
 
 
