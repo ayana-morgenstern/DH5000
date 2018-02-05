@@ -11,10 +11,8 @@ Public humanities: engage in discourse: collaborative. Different bases of knowle
 Digital vs traditional: 
 
 | Digital       | Traditional      |
-
 | ------------- |:-------------:| 
-
-info access   | scarcity | 
+| info access   | scarcity | 
 | info overload    | barriers to reach audience| 
 | credibility questions | authority/reinforces power structures| 
 
