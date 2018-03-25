@@ -22,3 +22,15 @@ Most people learn by repetition, and only a few with native genius can achieve m
 
 **Obviously it is also a useful resource when it comes to help with Pressbooks.**
 
+## Reading: *Conclusions: What We Learned from Writing History in the Digital Age (Spring 2012)* by Jack Dougherty, Kristen Nawrotzki, Charlotte Rochez, and Timothy Burke: 
+
+Lots of continuity in academia and historical writing: The best of digitally-inspired scholarship integrates technology into the art of composing works that feature what many consider the finest qualities in our field: a compelling narrative that unravels the past, supported by insightful argument and persuasive evidence.
+
+every woman, man, and child (with Internet access) can view source materials and publish their own interpretations, thereby engaging in work that had previously had been the domain of professional historians.3 Despite her own misgivings about the web-driven black Confederate myth, Leslie Madsen-Brooks argues that crowdsourcing creates key opportunities for historians to engage with a public that clearly cares about the meaning of the past, and Amanda Sikarskie also emphasizes the role of “citizen scholars” in the “co-creation of content rather than consumption of content.
+“the Internet is not an inherently even playing field; to digitize is not to democratize,” 
+the Internet is interrupting the traditional academic practice of filter-then-publish, thereby raising the potential for publish-then-filter
+Kathleen Fitzpatrick persuades us that the most challenging barriers to the transformation of scholarly communication are not technological, but instead “social, intellectual, and institutional
+ Many contributors emphasize the capacity of digital media to create novel forms of dialogic interaction between publics and scholars, to reroute the circulation of historical expertise and to erode some of the privileged authority that the scholarly guild confers upon itself.
+ 
+ ## Reading: *Opening the Journal: How an Open-Access E-Journal Can Serve Scholarship, the Liberal Arts, and the Community* by Hong-Ming Liang: 
+
